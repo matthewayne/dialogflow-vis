@@ -14,7 +14,7 @@ The Dialogflow Agent Visualization Tool, i.e. ```dfvis```, allows you to display
 # How to get started
 ```dfvis``` is a command-line tool that you can install via NPM:
 
-```npm install -g dfvis```
+```npm install -g dialogflow-vis```
 
 Then, 
 ```dfvis /path/to/dialogflow-agent-folder/ -o /path/to/output/file```
