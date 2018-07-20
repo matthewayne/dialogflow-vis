@@ -7,6 +7,9 @@ The Dialogflow Agent Visualization Tool, i.e. ```dfvis```, allows you to display
 
 **The software is currently in alpha**
 
+#### [OPTIONAL] Add Bike Shop FAQ Kge Cr
+1. fdjf
+
 # Limitations
 * Works only with agents whose primary language is English
 * Doesn’t properly connect nodes that set output context in a fulfillment webhook.
